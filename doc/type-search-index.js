@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"com.indus.training.persist.dao","l":"KeyWordsCounterDao"},{"p":"com.indus.training.persist.impl","l":"KeyWordsCounterImpl"},{"p":"com.indus.training.persist.dao","l":"TestKeyWordsCounterImpl"}];updateSearchResults();
